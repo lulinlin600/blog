@@ -1,6 +1,6 @@
-baseURL = "https://example.com"
+bseURL = "https://lulinlin600.github.io"
 languageCode = "en-us"
-title = "LeaveIt"
+title = "LuLinLin's Blog"
 theme = "LeaveIt"
 
 paginate = 12
@@ -34,14 +34,14 @@ preserveTaxonomyNames = true
     url = "/tags/"
     weight = 3
 
-  [[menu.main]]
-    name = "About"
-    url = "/about/"
-    weight = 4
+ # [[menu.main]]
+ #   name = "About"
+ #   url = "/about/"
+ #   weight = 4
 
 [params]
-    since = 2011
-    author = "Covey.Liu"                           # Author's name
+    since = 2016
+    author = "Linlin.Lu"                           # Author's name
     avatar = "/images/me/avatar.jpeg"           # Author's avatar
     subtitle = "我会更好，因为我没有停止"         # Subtitle
     cdn_url = ""           # Base CDN URL
@@ -62,9 +62,5 @@ preserveTaxonomyNames = true
     Twitter = "xxoo"
     Email   = "xxoo"
     Instagram = "xxoo"
-    Wechat = "/images/me/wechat.png"  # Wechat QRcode image
-    Facebook = "xxoo"
     Telegram = "xxoo"
-    Dribbble = "xxoo"
-    Medium = "xxoo"
 
